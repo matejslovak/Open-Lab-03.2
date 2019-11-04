@@ -14,8 +14,10 @@ namespace Open_Lab_03._02
                     Console.Write($"{array[row, col]}");
                     Console.WriteLine(" ");
                 }
+
                 Console.WriteLine(" ");
             }
+
 
         }
     }
